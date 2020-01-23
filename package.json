@@ -1,0 +1,25 @@
+{
+  "name": "fhir-typescript",
+  "version": "1.0.0",
+  "description": "A set of TypeScript types mapping to the FHIR specification",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohana-pediatrics/fhir-typescript.git"
+  },
+  "keywords": [
+    "FHIR",
+    "HL7",
+    "types",
+    "TypeScript"
+  ],
+  "author": "Dan Rumney <dan.rumney@ahanapediatrics.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohana-pediatrics/fhir-typescript/issues"
+  },
+  "homepage": "https://github.com/ohana-pediatrics/fhir-typescript#readme"
+}
